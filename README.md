@@ -68,5 +68,3 @@ Spring Boot 3.5 jOOQ CRUD 예제이다. 포트는 8080을 사용한다.
 * URL: `http://localhost:8080/api/users/1`
 
 * Method: `DELETE`
-
-* DELETE
